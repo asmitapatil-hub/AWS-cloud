@@ -1,4 +1,4 @@
-# What is cloud?
+## What is cloud?
 
 
 Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and 
